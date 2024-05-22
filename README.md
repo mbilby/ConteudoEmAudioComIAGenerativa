@@ -10,7 +10,7 @@ O objetivo deste trabalho foi explorar a utilização da IA generativa Google Ge
 - Google Colab **[Colab](https://colab.google/)** Desenvolvimento do projeto.
 
 ## 🧐 Processo de Criação
-1 - "Google Gemini" Utilizou-se o modelo de IA generativa Google Gemini para criar textos. Google Gemini é uma poderosa ferramenta de linguagem natural que pode gerar textos coesos e criativos com base em entradas fornecidas.
+1 - "Google Gemini" Utilizou-se o modelo de IA generativa Google Gemini para criar textos. Google Gemini é uma poderosa ferramenta de linguagem natural que pode gerar textos coesos e criativos com base em entradas fornecidas. </br>
 2 - O texto gerado foi convertido em áudio utilizando o serviço "Google Cloud Text-to-Speech". Este serviço oferece uma variedade de vozes e idiomas, permitindo personalização e alta qualidade na síntese de fala.
 
 ## 🚀 Resultados
